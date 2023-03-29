@@ -2,6 +2,7 @@
   "name": "cli-project",
   "version": "1.0.0",
   "description": "",
+  "repository": "https://github.com/kurisuuu/cli-project.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
